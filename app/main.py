@@ -6,7 +6,13 @@ def responder_dudas_chain(client, historial, encabezado=None):
     print("Bot (Dudas):", pregunta)
     historial.append({"role": "assistant", "content": pregunta})
     user_input = input("Tú: ")
-    historial.append({"role": "user", "content": user_input})
+    # Cadena de pensamiento: pide al modelo razonar paso a paso y separar con encabezado
+    cot_prompt = (
+        user_input +
+        " Primero, razona paso a paso y escribe tu razonamiento bajo el encabezado 'Razonamiento:'. "
+        "Después, da una respuesta final clara bajo el encabezado 'Conclusión:'."
+    )
+    historial.append({"role": "user", "content": cot_prompt})
     respuesta = client.client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=historial
