@@ -40,9 +40,10 @@ def combinacion_cadenas(client, historial):
 import threading
 def cadenas_paralelas(client, historial):
     """Ejecuta dudas y tips en paralelo y muestra ambos resultados claramente."""
+    import copy
     resultados = {}
     def run_dudas():
-        h = historial.copy()
+        h = copy.deepcopy(historial)
         import io, sys
         buffer = io.StringIO()
         sys_stdout = sys.stdout
@@ -52,7 +53,7 @@ def cadenas_paralelas(client, historial):
         resultados['dudas'] = buffer.getvalue()
 
     def run_tips():
-        h = historial.copy()
+        h = copy.deepcopy(historial)
         import io, sys
         buffer = io.StringIO()
         sys_stdout = sys.stdout
@@ -114,6 +115,36 @@ def main():
         {"role": "assistant", "content": saludo_inicial}
     ]
 
+
+    # Diccionario de funciones ejecutables (runnables)
+    def ejecutar_vacante(client, historial):
+        print("[Runnable] Ejecutando función de vacantes...")
+        buscar_vacantes_chain(client, historial)
+
+    def ejecutar_duda(client, historial):
+        print("[Runnable] Ejecutando función de dudas...")
+        responder_dudas_chain(client, historial)
+
+    def ejecutar_tip(client, historial):
+        print("[Runnable] Ejecutando función de tips...")
+        tips_postulacion_chain(client, historial)
+
+    def ejecutar_combinacion(client, historial):
+        print("[Runnable] Ejecutando función de combinación...")
+        combinacion_cadenas(client, historial)
+
+    def ejecutar_paralelo(client, historial):
+        print("[Runnable] Ejecutando función de paralelo...")
+        cadenas_paralelas(client, historial)
+
+    runnables = {
+        "vacante": ejecutar_vacante,
+        "duda": ejecutar_duda,
+        "tip": ejecutar_tip,
+        "combinacion": ejecutar_combinacion,
+        "paralelo": ejecutar_paralelo
+    }
+
     while True:
         user_input = input("Tú: ")
         if user_input.lower() in ["salir", "exit", "quit"]:
@@ -129,19 +160,19 @@ def main():
 
         # Combinación: vacantes y tips
         if tiene_vacante and tiene_tip:
-            combinacion_cadenas(client, historial)
+            runnables["combinacion"](client, historial)
         # Paralela: dudas y tips
         elif tiene_duda and tiene_tip:
-            cadenas_paralelas(client, historial)
-        # Solo vacantes
+            runnables["paralelo"](client, historial)
+        # Solo vacantes usando runnable
         elif tiene_vacante:
-            buscar_vacantes_chain(client, historial)
-        # Solo dudas
+            runnables["vacante"](client, historial)
+        # Solo dudas usando runnable
         elif tiene_duda:
-            responder_dudas_chain(client, historial)
-        # Solo tips
+            runnables["duda"](client, historial)
+        # Solo tips usando runnable
         elif tiene_tip:
-            tips_postulacion_chain(client, historial)
+            runnables["tip"](client, historial)
         else:
             respuesta = client.client.chat.completions.create(
                 model="gpt-3.5-turbo",
