@@ -1,0 +1,2994 @@
+{
+  "Items": [
+    {
+      "Ciudad": {
+        "S": "Piura"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-work-from-home-junior-backend-developer-nodejs-ref-0111-en-piura-DD45AE9EC96B3CC261373E686DCF3405#lc=ListOffers-Score0-18"
+      },
+      "Region_Departamento": {
+        "S": "Piura"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "08/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Mongodb"
+          },
+          {
+            "S": "Postgresql"
+          },
+          {
+            "S": "Mysql"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Work from home junior backend developer (node.js) / ref. 0111"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Prototype"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          },
+          {
+            "S": "Scrum"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:03.932120"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "At BairesDev®, weve been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the worlds Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, youre taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. Junior Backend Developer (Node.js) at BairesDev As a Junior Backend Developer (Node.js), apply your JavaScript and Node.js skills to build efficient server-side applications. This role involves developing APIs, working with server-side logic, and enhancing your backend development capabilities. What you will do: - Develop and maintain Node.js applications, focusing on creating efficient back-end functionality. - Work on inte..."
+      },
+      "Salario_Monto": {
+        "N": "2500"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "228"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Trujillo"
+      },
+      "Categoria_Puesto": {
+        "S": "Arquitecto/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-java-backend-ref-0003-en-trujillo-290EBA28F7F6406D61373E686DCF3405#lc=ListOffers-Score3-1"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "03/05/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "43"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "20"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador java backend / ref. 0003"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Administración De Sistemas"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:26.913364"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador Java Backend en BairesDev Ser un Desarrollador Java Backend en nuestro Equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades combinen experiencia, conocimiento e independencia. La innovación también está en el centro de la estrategia de BairesDev. Por lo tanto, si estás dispuesto a asumir las tareas más complejas y ser un maestro ..."
+      },
+      "Salario_Monto": {
+        "N": "6700"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por inicio o incremento de actividad"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "328"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Arequipa"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Anual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-java-ref-0003-en-arequipa-B4E686880F7A8C4461373E686DCF3405#lc=ListOffers-Score3-2"
+      },
+      "Region_Departamento": {
+        "S": "La libertad"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "07/04/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Java"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "Intermedio"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador java / ref. 0003"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Prototype"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          },
+          {
+            "S": "Scrum"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:34.924577"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador Java en BairesDev Ser un Desarrollador Java en nuestro Equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades combinen experiencia, conocimiento e independencia. La innovación también está en el centro de la estrategia de BairesDev. Por lo tanto, si usted está dispuesto a asumir las tareas más complejas y ser un maestro de su pila ..."
+      },
+      "Salario_Monto": {
+        "N": "7400"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "3"
+      },
+      "ID_Oferta": {
+        "S": "99"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "San isidro"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-en-san-isidro-33383A6EFD47EC3B61373E686DCF3405#lc=ListOffers-Score3-11"
+      },
+      "Region_Departamento": {
+        "S": "Cusco"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Minsait, una compañía de Indra Indra es una de las principales compañías globales de consultoría y tecnología, la empresa líder en tecnologías de la Información en España y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo. Dispone de una oferta integral de soluciones propias y servicios avanzados y de alto valor añadido en tecnología, que combina con una cultura única de fiabilidad, flexibilidad y adaptación a las necesidades ..."
+      },
+      "Fecha_Publicacion": {
+        "S": "23/04/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Sql Server"
+          },
+          {
+            "S": "Oracle"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "24"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista bi"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:59.936233"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "More digital. More human. More Minsait. Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. Buscamos Analista BI con ganas de trabajar en nuestros equipos multidisciplinares. ¿Cuál es el reto que te proponemos? Estarás en contacto continuo con las novedades tecnológicas, impulsando la transformación digital. Participarás en proyectos y desarrollos que tienen una alta visibilidad y que marcan la diferencia con soluciones disruptivas y especializadas para toda la cadena de valor. ¿Qué esperamos por tu parte? 2 años de experiencia laboral en Business Intelligence (BI) y DataWare House Indispensable Automatización de procesos en SQL Server Desarrollo de procesos ETL y carga de datos SHELL SCRIPTING Lenguaje Python BD SQL, Oracle PowerBI Modalidad de trabajo híbrida, 2 días presencial y 3 en remoto Motivos por los que te encantará ser un Minsaiter: Modalida..."
+      },
+      "Salario_Monto": {
+        "N": "8700"
+      },
+      "Nombre_Empresa": {
+        "S": "Indra"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "475"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Lima"
+      },
+      "Categoria_Puesto": {
+        "S": "Ingeniero/a de redes y telecomunicaciones"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-eventos-de-seguridad-informatica-en-lima-7B5471D4A7741DAE61373E686DCF3405#lc=ListOffers-Score3-2"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Somos SISTEMATICO, una consultora de tecnologías de la información, nos ponemos a su disposición y le ofrecemos una alternativa de solución a los problemas."
+      },
+      "Fecha_Publicacion": {
+        "S": "07/03/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "30"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de eventos de seguridad informática"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Docker"
+          },
+          {
+            "S": "Go"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "Angular"
+          },
+          {
+            "S": "Dyango"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:20.913760"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Educación: Bachiller o Ingeniero de Sistemas / Bachiller o Ingeniero de Telecomunicaciones. o Experiencia: 03 años de experiencia como analista de eventos de TI/Seguridad. o Certificación: ITIL V3 o 4, ISO 27001 (Deseable ambas certificaciones). o Habilidades blandas: Responsable y comprometido a lograr los objetivos. o Conocimiento de las siguientes herramientas: : SIEM Sentinel, CASB, y Microsoft Defender (Experiencia comprobada). o Conocimientos adicionales: - Conocimientos sólidos en Infraestructura de TI, Redes y Seguridad de la Información. - Conocimientos en CASB, SIEM Sentinel, Threat hunting, Firewall y WAF. - Conocimiento de PCI DSS, ISO 27001 y NIST. - Conocimientos en Gestión de Servicios de TI y manejo de herramienta de ticketeria (IVANTI, Service Now, Service Desk u otro)."
+      },
+      "Salario_Monto": {
+        "N": "5500"
+      },
+      "Nombre_Empresa": {
+        "S": "Sistemas tecnologicos integrales corporativos s.a.c."
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "566"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Chiclayo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-movil-ios-ref-0047-en-chiclayo-CF9BA89907ADCE8361373E686DCF3405#lc=ListOffers-Score3-6"
+      },
+      "Region_Departamento": {
+        "S": "Lambayeque"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "21/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "24"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador móvil ios / ref. 0047"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Inglés"
+          },
+          {
+            "S": "Conocimientos: Tecnología De La Información"
+          },
+          {
+            "S": "Swift"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:26.909349"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador Móvil iOS en BairesDev En BairesDev, como Desarrollador Móvil iOS, te convertirás en una parte integral de un equipo en un entorno ágil, desempeñando un papel esencial en el diseño, desarrollo y optimización de aplicaciones iOS. Con una sólida base en Objective-C y Swift, colaborarás con equipos interfuncionales, asegurando la implementación de soluciones técnicas de alta calidad y prom..."
+      },
+      "Salario_Monto": {
+        "N": "6000"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "3"
+      },
+      "ID_Oferta": {
+        "S": "63"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Moquegua"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-aspnet-investigacion-y-desarrollo-ref-0001-en-trujillo-891837EFB15B5BE061373E686DCF3405#lc=ListOffers-Score3-4"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "09/03/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "50"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador asp.net / investigación y desarrollo / ref. 0001"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Ruby On Rails"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "Net"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:44.903531"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador ASP.NET / Investigación y Desarrollo en BairesDev Estamos buscando destacados Desarrolladores ASP.NET para unirse al equipo de Investigación y Desarrollo (I+D) de BairesDev. Nuestro equipo de I+D es una parte esencial de nuestras soluciones tecnológicas que generan millones en ingresos cada año, así que solo contratamos a lo mejor de lo mejor. Dentro de nuestro equipo encontrarás muchos..."
+      },
+      "Salario_Monto": {
+        "N": "8600"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "1"
+      },
+      "ID_Oferta": {
+        "S": "141"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Lima"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-call-center-en-lima-B4DC97B44691905961373E686DCF3405#lc=ListOffers-Score3-2"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Target Marketing, es una empresa que cuenta con experiencia brindando servicios de Marketing y Ventas de productos de importantes entidades bancarias y financieras, para lo cual desarrollamos politicas y estrategias que apunte a generar valor para sus organizaciones, ofreciendo soluciones con un alto valor añadido y a la medida de sus necesidades."
+      },
+      "Fecha_Publicacion": {
+        "S": "07/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Sql"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista bi / call center"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Prototype"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          },
+          {
+            "S": "Scrum"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:58.911010"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "¡TE ESTAMOS BUSCANDO! En TARGET OUTSOURCING somos una empresa comprometida con el desarrollo personal y profesional de sus colaboradores. Nos enfocamos en crear un ambiente de trabajo inclusivo, con oportunidades de crecimiento, excelente clima laboral y políticas de diversidad e igualdad. ¡Únete a nuestro equipo y forma parte de una empresa donde las personas somos el motor de éxito para ayudar a nuestros clientes! Si buscas un lugar donde crecer y aportar, Target Outsourcing es para ti!! Requisitos: Experiencia mínima de 1 año en Call Center como Analista de Datos. Estudios técnicos o universitarios en sistemas, programación y afines (en curso, truncos o finalizados). Conocimientos avanzados en Excel, Access y Power BI. Manejo de indicadores de gestión, análisis de datos e interpretación numérica. Conocimientos básicos de SQL. Disponibilidad para trabajar de forma PRESENCIAL. Funciones: Análisis de datos, generación de reportes y emisión de alertas para identificar desviaciones y ..."
+      },
+      "Salario_Monto": {
+        "N": "3200"
+      },
+      "Nombre_Empresa": {
+        "S": "Target marketing"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "1"
+      },
+      "ID_Oferta": {
+        "S": "468"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Trujillo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-servicio-de-software-de-preproduccion-junior-en-chaclacayo-89E52C55260796EC61373E686DCF3405#lc=ListOffers-Score0-4"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Adecco es la empresa de Recursos Humanos más grande del mundo, con más de 50 años de experiencia y más de 34,000 colaboradores en 60 países. Así mismo, encontramos el mejor talento en todo el Perú, con más de 20 años de experiencia en el mercado peruano y 10,000 colaboradores con presencia a nivel nacional. En Adecco Implementamos y desarrollamos operaciones para distintos sectores y mercados, ofreciendo una amplia selección de oportunidades laborales. Buscamos profesionales dinámicos..."
+      },
+      "Fecha_Publicacion": {
+        "S": "06/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Java"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Sql"
+          },
+          {
+            "S": "Oracle"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Ingeniero de servicio de software de preproducción  junior"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Java"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:58.946082"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En Adecco Perú, firma global especializada en la búsqueda y selección de mandos altos, nos encontramos en búsqueda del mejor talento para cubrir la siguiente vacante: Por encargo de nuestro cliente, empresa multinacional que se dedica a la tecnología de identidad aumentada y soluciones de seguridad se encuentra en la búsqueda de un Ingeniero de Servicio de Software de Preproducción Junior para laborar en Chaclacayo. Requisitos: Bachiller o egresado de las carreras de Sistemas o afines Mínimo 2 a 3 años de experiencia en desarrollo y soporte de Software Conocimiento en Sistemas operativos (Linux, Windows) Conocimiento en Bases de datos (SQL, Oracle) Conocimiento en herramientas de automatización y virtualización Conocimiento en buenas prácticas de desarrollo y documentación técnica Manejo de Criptografía Manejo de Java Funciones: Crear, Configurar, Capacitar y dar soporte al CPS (Common personalization system) Dar soporte al Service Center en el BAU - Bussines as Usual Configurar los..."
+      },
+      "Salario_Monto": {
+        "N": "4100"
+      },
+      "Nombre_Empresa": {
+        "S": "Adecco perú s.a."
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "207"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Lima"
+      },
+      "Categoria_Puesto": {
+        "S": "Gerente de proyectos de ti"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-gobierno-de-datos-en-lima-70CD14FEB61ABFF761373E686DCF3405#lc=ListOffers-Score0-16"
+      },
+      "Region_Departamento": {
+        "S": "Lima, lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Canvia es la empresa líder de servicios de Transformación Digital en el Perú. Con más de 30 años en un mercado altamente competitivo, ha logrado posicionarse en lo más alto del mercado peruano gracias a su oferta integral de servicios a través de cinco líneas de negocio y más de 2500 colaboradores. Desde el 2017, forma parte del portafolio de Advent International, una de las firmas de Private Equity más grandes y experimentadas del mundo con inversiones por encima de los US$41 mil millones en..."
+      },
+      "Fecha_Publicacion": {
+        "S": "30/05/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "Power Bi"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "45"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Sql Server"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "25"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de gobierno de datos"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Css"
+          },
+          {
+            "S": "Html"
+          },
+          {
+            "S": "Java"
+          },
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:26.934498"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Reinventa el futuro con Canvia! Si sientes pasión por la tecnología y quieres transformar negocios, esta es tu oportunidad para desarrollarte en una empresa inclusiva, diversa, que se desafía constantemente. Nuestro propósito es hacer más fácil la vida de las personas, innovando e implementando proyectos de transformación digital con un metodología ágil y segura. Como Analista de Gobierno de datos tendrás la misión de: Desarrollo de reportes estratégicos y dashboards utilizando Power BI y consultas avanzadas en SQL para apoyar la toma de decisiones. Valor agregado si posee conocimientos en AS400. Encargado de implementar y mantener políticas de gobierno de datos, asegurando la calidad, trazabilidad y disponibilidad de la información. Experiencia sólida en herramientas como SQL, Power BI y conocimiento deseable en Collibra (Data Universe). Documentar y mapear los flujos de datos entre sistemas y procesos para asegurar la transparencia y trazabilidad. Trabajar con equipos de TI y de n..."
+      },
+      "Salario_Monto": {
+        "N": "5000"
+      },
+      "Nombre_Empresa": {
+        "S": "Canvia"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "1"
+      },
+      "ID_Oferta": {
+        "S": "608"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Pucallpa"
+      },
+      "Categoria_Puesto": {
+        "S": "Gerente de proyectos de ti"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-react-senior-tech-lead-ref-0169-en-pucallpa-DB2276528152146561373E686DCF3405#lc=ListOffers-Score3-12"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "25/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "Git"
+          },
+          {
+            "S": "Docker"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "45"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "24"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa react senior tech lead / ref. 0169"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Inglés"
+          },
+          {
+            "S": "Conocimientos: Javascript"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "React"
+          },
+          {
+            "S": "Next.Js"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:25.924197"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. React Senior Tech Lead en BairesDev Únete a nuestro equipo de desarrollo como React Senior Tech Lead. Tu rol implicará supervisar y dirigir a un equipo de desarrolladores, definir e implementar estrategias tecnológicas avanzadas, impulsar la innovación y establecer altos estándares técnicos. Lo que harás - Supervisar los aspectos técnicos de los proyectos, guiar a los miembros del equipo en la reso..."
+      },
+      "Salario_Monto": {
+        "N": "3200"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "597"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Trujillo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-o-programador-stack-javascript-y-python-call-center-en-la-victoria-EEBFFC39C106535861373E686DCF3405#lc=ListOffers-Score0-7"
+      },
+      "Region_Departamento": {
+        "S": "Callao"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "En Salesland, somos expertos en ventas. Contamos con un equipo altamente capacitado y experimentado en diversos sectores, lo que nos permite garantizar el éxito de nuestros clientes. Ofrecemos un servicio integral que abarca la venta directa e indirecta, aportando un valor diferencial medible a través de reportes y análisis en tiempo real. Nuestra metodología flexible nos permite adaptarnos a cualquier sector y producto, utilizando canales estratégicos como redes comerciales, promotores y ven..."
+      },
+      "Fecha_Publicacion": {
+        "S": "17/04/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "Docker"
+          },
+          {
+            "S": "Git"
+          },
+          {
+            "S": "Kubernetes"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "50"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Desarrollador o programador  (stack javascript y python)"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:56.916324"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Somos SALESLAND, empresa española líder, especializada en la creación y gestión de Equipos Comerciales, por encargo de nuestro cliente LIDER EN TELECOMUNICACIONES, nos encontramos en búsqueda de un PROGRAMADOR - CALLCENTER para trabajar de manera PRESENCIAL en nuestra oficina de Santa Catalina. Requisitos: Bach y/o Ingeniero en Sistemas, Computación, redes o afines. Conocimiento sólido en HTML, Javascript, Python. Conocimientos en arquitectura de software. MVC Conocimientos sólidos en herramientas de DevOps, GIT, Calidad de software, testing de software, configuración de ambientes de prueba y producción. Conocimientos sólidos en uso de docker, kubernetes, máquinas virtuales. Conocimientos en gestión de proyectos de software. Beneficios: Ingreso a Planilla con todos los beneficios de Ley. Sueldo fijo + Variable + Movilidad. EPS opcional. Descuentos corporativos. ¡¡FORMA PARTE DE NUESTRO EQUIPO SALESCENTER!!"
+      },
+      "Salario_Monto": {
+        "N": "2700"
+      },
+      "Nombre_Empresa": {
+        "S": "Salesland pacífico"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por inicio o incremento de actividad"
+      },
+      "Anos_Experiencia": {
+        "N": "4"
+      },
+      "ID_Oferta": {
+        "S": "195"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "San borja"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-javaremoto-en-san-borja-B25FEE2B5D4429C861373E686DCF3405#lc=ListOffers-Score3-11"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Nuestra gestión se basa en nuestros sólidos valores institucionales (Integridad, Comunicación, Responsabilidad y Mejora Continua) para garantizar la excelencia en la prestación de nuestros servicios, ademïás contamos con el personal y los medios necesarios, así como con las autorizaciones requeridas. Misión Generar eficiencias a través de servicios y soluciones integrales buscando crear y afianzar relaciones comerciales sólidas y duraderas que permitirán el desarrollo empresarial mutu..."
+      },
+      "Fecha_Publicacion": {
+        "S": "07/04/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "30"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Desarrollador backend java/remoto"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Remoto"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:55.918157"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Por encargo de nuestro cliente, importante empresa líder en el rubro financiero, nos encontramos encuentra en búsqueda de: (1) Desarrollador Backend Java ¿Qué buscamos? Bachiller o licenciado o técnicos en Ingeniería Informática o Ingeniería de Software, Ingeniería de Sistemas, entre otros. Experiencia mínima de 2 años como Desarrollador Backend Java. Experiencia con Java 11 o superior. Dominio de programación reactiva (preferencia por experiencia con Spring WebFlux o similares). Experiencia en despliegue e integración continua usando Azure DevOps. Experiencia trabajando con bases de datos Oracle y PostgreSQL. Conocimiento sólido en patrones de diseño de software. Alto dominio de principios SOLID y buenas prácticas de desarrollo. ¿Cuáles serán tus retos principales? Desarrollo y mantenimiento de microservicios backend Java. Implementación de soluciones reactivas y escalables. Participación en el diseño técnico y revisión de código. Documentación técnica y soporte a otros equipos. ¿Q..."
+      },
+      "Salario_Monto": {
+        "N": "8500"
+      },
+      "Nombre_Empresa": {
+        "S": "Green solutions group"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "760"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Lima"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-inteligencia-comercial-zona-de-trabajo-cercado-de-lima-en-lima-7093A217FC6140D361373E686DCF3405#lc=ListOffers-Score3-7"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Importante Empresa perteneciente a un grupo Multinacional con mas de 50 años como importador, comercializador de productos eléctricos, para la comercio, industria, petrolero y gran minería."
+      },
+      "Fecha_Publicacion": {
+        "S": "29/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Sql Server"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de inteligencia comercial"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Css"
+          },
+          {
+            "S": "Html"
+          },
+          {
+            "S": "Java"
+          },
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:57.946543"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "ELECTRO ENCHUFE S.A.C, empresa peruana con 30 años de presencia en el mercado, líder en la comercialización e importación de productos eléctricos para el rubro industrial y retail a nivel Nacional. Actualmente estamos en la búsqueda de un(a) ANALISTA INTELIGENCIA COMERCIAL ¡Postula y refiere para ser Nuestro(a) Próximo Analista Inteligencia Comercial! ¿Qué necesitas para postularte? Educación: Técnico o Universitario en Ingeniería Industrial, Administración, Administración y gestión comercial, Ingeniería empresarial o similares Experiencia: Mínimo 1 año en área Pricing, Inteligencia Comercial o relacionados Especialización en Power BI, Análisis de Datos (Data mining, Big Data, etc) Nivel de Office y Power BI avanzado Nivel Intermedio en SQL. Conocimiento en Phyton Conocimientos en veritrade o herramientas similares de análisis de comercio exterior. Disponibilidad para trabajar: lunes a viernes en Centro de Lima de 08:00 am a 06:15 pm ¿Cuáles serán tus funciones como Analista Intelig..."
+      },
+      "Salario_Monto": {
+        "N": "5300"
+      },
+      "Nombre_Empresa": {
+        "S": "Electro enchufe s.a.c"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "4"
+      },
+      "ID_Oferta": {
+        "S": "467"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Trujillo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-fullstack-android-ref-0046-en-cusco-57FAB1F0085959A661373E686DCF3405#lc=ListOffers-Score3-15"
+      },
+      "Region_Departamento": {
+        "S": "La libertad"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "22/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "Intermedio"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador fullstack android / ref. 0046"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:32.932267"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador Fullstack Android en BairesDev En BairesDev, como Desarrollador Fullstack Android, te convertirás en una parte integral de un equipo en un entorno ágil, desempeñando un papel esencial en el diseño, desarrollo y optimización de aplicaciones Android. Con una sólida base en Kotlin o Java, colaborarás con equipos interfuncionales, garantizando la implementación de soluciones técnicas de alt..."
+      },
+      "Salario_Monto": {
+        "N": "8900"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "92"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "San isidro"
+      },
+      "Categoria_Puesto": {
+        "S": "Ingeniero/a de bases de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-mayorista-analista-de-calidad-de-red-y-mayorista-en-san-isidro-C0408E0BD3E0CB8C61373E686DCF3405#lc=ListOffers-Score3-2"
+      },
+      "Region_Departamento": {
+        "S": "Puno"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Somos Wi Net Telecom SAC, una compañía 100% peruana de servicio de internet por fibra óptica para el hogar, y miembro de la familia de Optical Networks, lo que nos da el respaldo tecnológico para ofrecer a nuestros clientes el mejor servicio."
+      },
+      "Fecha_Publicacion": {
+        "S": "07/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "50"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de datos / mayorista"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:33.909281"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "¡Estamos creciendo y seguimos buscando profesionales con mucha actitud Winner! Somos WIN, una compañía peruana de servicio de internet por fibra óptica con alcance a nivel nacional estamos comprometidos con que nuestra comunidad disfrute de la verdadera velocidad del Internet. Nos encontramos en búsqueda de los mejores talentos y tu puedes ser el siguiente Winner: Serás responsable de: Análisis de datos, revisión y cruce de bases de registros de información de los sistemas para la identificación de oportunidades de mejora. Analizar de manera periódica con líderes de las distintas áreas el status de los KPI´s y elaborar reportes Dax en Power BI Uso de macros VBA para automatización de registros, procesos y creación de bases de datos. Realización del proceso de ETL (Extract, transform and load) en Power Query y Query Editor (avanzado - intermedio). Elaboración de reportes Dashboard interactivos para la toma de decisiones. Liderar mesas de trabajo con las distintas áreas según los caso..."
+      },
+      "Salario_Monto": {
+        "N": "3400"
+      },
+      "Nombre_Empresa": {
+        "S": "Win"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "1"
+      },
+      "ID_Oferta": {
+        "S": "357"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Chiclayo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-finanty-desarrollador-frontend-san-isidro-presencial-en-san-isidro-7A1701F3D277F0DC61373E686DCF3405#lc=ListOffers-Score3-3"
+      },
+      "Region_Departamento": {
+        "S": "Lambayeque"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Empresa perteneciente al Grupo ACP, dedicada a la administración de portafolios financieros. Con más de 17 años en el mercado peruano, nuestra misión es contribuir en la reparación del vínculo entre el cliente y el sistema financiero para reinsertarlo progresivamente al crédito formal."
+      },
+      "Fecha_Publicacion": {
+        "S": "10/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "45"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabaja en finanty / desarrollador frontend /san isidro / presencial"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Css"
+          },
+          {
+            "S": "Html"
+          },
+          {
+            "S": "Java"
+          },
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:39.910316"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Buscamos un Desarrollador Frontend para unirse a nuestro equipo dinámico en FINANTY S.A. Si tienes una pasión por el desarrollo de software y un enfoque en resultados, esta oportunidad es para ti. En FINANTY S.A., valoramos la comunicación efectiva y la empatía con el usuario, por lo que buscamos alguien que no solo sea un experto técnico, sino también un colaborador proactivo que esté dispuesto a trabajar en equipo para alcanzar objetivos comunes. ¿Qué harás en este rol? Diseñar y mejorar las interfaces de los sistemas internos, asegurando claridad, usabilidad y alineamiento con los objetivos del negocio. Validar prototipos con usuarios finales y convertir sus necesidades en soluciones visuales funcionales. Trabajar en conjunto con diseñadores, backend y áreas del negocio para optimizar experiencia de usuario y rendimiento. Participar en el despliegue de funcionalidades a producción desde el lado frontend. Requisitos mínimos Minimo 2 años a mas de experiencia como desarrollador(a) ..."
+      },
+      "Salario_Monto": {
+        "N": "6900"
+      },
+      "Nombre_Empresa": {
+        "S": "Finanty s.a."
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por inicio o incremento de actividad,"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "120"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "San borja"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-base-de-datos-en-san-borja-F69BA41F8763DDC661373E686DCF3405#lc=ListOffers-Score4-16"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "No disponible"
+      },
+      "Fecha_Publicacion": {
+        "S": "15/01/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Java"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Mysql"
+          },
+          {
+            "S": "Postgresql"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de base de datos"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:51.931671"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Requisitos: Experiencia demostrable (mínimo 2 años) en administración de MySQL y PostgreSQL Conocimientos intermedios de Java para realizar modificaciones simples de código Experiencia en migraciones de bases de datos Capacidad para optimizar consultas y mejorar el rendimiento de sistemas Habilidad para diseñar y mantener diccionarios de datos Experiencia en gestión de grandes volúmenes de información Responsabilidades: Administrar y optimizar bases de datos MySQL, PostgreSQL. Liderar la migración de sistemas a PostgreSQL Desarrollar y mantener procedimientos almacenados, funciones y paquetes Realizar mejoras de rendimiento (tuning) y optimización de consultas Implementar y mantener estándares de seguridad y permisos Diseñar y normalizar estructuras de bases de datos Crear y mantener documentación técnica Desarrollar correcciones simples en Java según sea necesario"
+      },
+      "Salario_Monto": {
+        "N": "6400"
+      },
+      "Nombre_Empresa": {
+        "S": "Importante empresa del sector"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "440"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Trujillo"
+      },
+      "Categoria_Puesto": {
+        "S": "Ingeniero/a en pruebas de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-ingeniero-net-angular-investigacion-y-desarrollo-ref-0001-en-trujillo-0BC7D39B4F570C1561373E686DCF3405#lc=ListOffers-Score3-2"
+      },
+      "Region_Departamento": {
+        "S": "La libertad"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "04/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "Git"
+          },
+          {
+            "S": "Docker"
+          },
+          {
+            "S": "Aws"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Mongodb"
+          },
+          {
+            "S": "Postgresql"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa ingeniero .net + angular / investigación y desarrollo / ref. 0001"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "Node.Js"
+          },
+          {
+            "S": "Express.Js"
+          },
+          {
+            "S": "Nestjs"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:37.917485"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Ingeniero .NET + Angular / Investigación y Desarrollo en BairesDev Estamos buscando destacados Ingenieros .NET + Angular para unirse al equipo de Investigación y Desarrollo (I+D) de BairesDev. Nuestro equipo de I+D es una parte esencial de nuestras soluciones tecnológicas que generan millones en ingresos cada año, así que solo contratamos a lo mejor de lo mejor. Dentro de nuestro equipo encontrarás m..."
+      },
+      "Salario_Monto": {
+        "N": "6000"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "3"
+      },
+      "ID_Oferta": {
+        "S": "675"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Magdalena del mar"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-bi-inteligencia-comercial-en-magdalena-del-mar-02A04743EC1CF73561373E686DCF3405#lc=ListOffers-Score4-16"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "EExpertos en soluciones comerciales para el cuidado de la marca. Somos líderes en brindar Soluciones Comerciales, de Trade Marketing y mercadeo, que aportan al crecimiento de las ventas de las compañías, al cuidado de las marcas y a la gestión y fortalecimiento del desempeño del talento humano. Nuestra experiencia con mas de 20.000 personas a nivel regional (Colombia, Ecuador y Perú), nos permite ser ágiles y desarrollar mejores practicas para crear equipos de trabajo produc..."
+      },
+      "Fecha_Publicacion": {
+        "S": "04/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "50"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "20"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de datos bi / inteligencia comercial"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Híbrido presencial teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:47.927151"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Nos encontramos en búsqueda del mejor talento para ocupar la posición de Analista Bi con el siguiente perfil: REQUISITOS - Bachiller o Licenciado de las carreras de Administración, Marketing, Ingeniería de Sistemas o a fines - Experiencia mínima de 2 años en posiciones similares. - Manejo de Excel a nivel intermedio/avanzado. (Indispensable) FUNCIONES Extraer, limpiar y procesar datos de diferentes fuentes para generar insights sobre ventas, clientes y mercado. Crear visualizaciones interactivas y reportes en herramientas como Power BI, Tableau o Excel avanzado, facilitando la toma de decisiones estratégicas. Identificar patrones de comportamiento y oportunidades de negocio a través de análisis predictivos y modelos estadísticos. Generar recomendaciones basadas en datos para optimizar estrategias de precios, productos, campañas de marketing y expansión de mercado. Implementar herramientas y metodologías para agilizar el análisis de datos, como el uso de Python, SQL reduciendo tiemp..."
+      },
+      "Salario_Monto": {
+        "N": "2400"
+      },
+      "Nombre_Empresa": {
+        "S": "Eficacia"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "2"
+      },
+      "ID_Oferta": {
+        "S": "420"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Piura"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-ingeniero-de-software-senior-node-ref-0111-en-san-isidro-6412299DCA4B612D61373E686DCF3405#lc=ListOffers-Score0-1"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "20/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "50"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Mongodb"
+          },
+          {
+            "S": "Postgresql"
+          },
+          {
+            "S": "Mysql"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa ingeniero de software senior (node) / ref. 0111"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Postgresql"
+          },
+          {
+            "S": "Css"
+          },
+          {
+            "S": "Html"
+          },
+          {
+            "S": "Java"
+          },
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:04.913974"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Ingeniero de Software Senior (Node) en BairesDev Ser un Ingeniero de Software Senior (Node) en nuestro Equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades combinen experiencia, conocimiento e independencia. La innovación también está en el centro de la estrategia de BairesDev. Por lo tanto, si usted está dispuesto a asumir las tareas más comp..."
+      },
+      "Salario_Monto": {
+        "N": "3600"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "4"
+      },
+      "ID_Oferta": {
+        "S": "231"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Santiago de surco"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-developer-fullstack-modalidad-hibrida-en-san-isidro-7316847B01C34AC361373E686DCF3405#lc=ListOffers-Score3-16"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Técnico"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "TEAMSOFT, empresa nacional conformada por accionistas peruanos que reúnen más de 20 años de experiencia nacional e internacional en el campo de Tecnología de la Información, brinda los siguientes servicios a empresas del Sector Privado y Público del país: * Web Application * Business Intelligence * Soluciones de Negocio a Medida * Centros de Desarrollo Dedicado Para el logro de nuestra misión, contamos con Consultores y Analistas de la más alta calidad y trayectoria en el desarrollo de soluci..."
+      },
+      "Fecha_Publicacion": {
+        "S": "21/05/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Developer fullstack"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Híbrido presencial teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:50.903564"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Teamsoft, empresa con 22 años de experiencia en el mercado peruano, nos especializamos en brindar soluciones tecnológicas e integrales para optimizar los procesos de negocio de diversas organizaciones. Nuestro principal objetivo es convertirnos en un socio estratégico para nuestros clientes, acompañándolos en su transformación digital a través de nuestros servicios: * Fabrica Software * Soluciones Digitales * Inteligencia de Negocios * Calidad de Software * Desarrollo de Proyectos * Outsourcing. Como parte de nuestro crecimiento y compromiso con la innovación, nos encontramos en la búsqueda de un Desarrollador FullStack, un profesional apasionado por la tecnología y el desarrollo de aplicaciones que marquen la diferencia en la experiencia de los usuarios. Si quieres formar parte de un equipo dinámico y cuentas con un nivel Semi Senior en proyectos desafiantes, ¡esta es tu oportunidad! -> Perfil técnico: (nivel intermedio) VACANTE: Desarrollador Full Stack - React, JavaScript, ..."
+      },
+      "Salario_Monto": {
+        "N": "2100"
+      },
+      "Nombre_Empresa": {
+        "S": "Teamsoft s.a.c."
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por obra determinada o servicio específico"
+      },
+      "Anos_Experiencia": {
+        "N": "4"
+      },
+      "ID_Oferta": {
+        "S": "168"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Chimbote"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Anual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-programador-movil-presencial-chimbote-en-chimbote-300EDE964FB29B1861373E686DCF3405#lc=ListOffers-Score3-4"
+      },
+      "Region_Departamento": {
+        "S": "Ancash"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Somos una empresa de transformación digital que acerca las tendencias tecnológicas a cualquier sector. Nuestra misión es resolver las necesidades más exigentes de nuestros clientes apoyándonos en las nuevas tecnologías para adaptarlas a su entorno y potenciar su transformación digital. Nuestros esfuerzos van dirigidos a crear soluciones concretas para problemas específicos, partiendo siempre de metodologías ágiles de desarrollo."
+      },
+      "Fecha_Publicacion": {
+        "S": "22/02/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Dart"
+          },
+          {
+            "S": "Php"
+          },
+          {
+            "S": "Javascript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "Sql Server"
+          },
+          {
+            "S": "Mysql"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "24"
+      },
+      "Nivel_Ingles": {
+        "S": "Basico"
+      },
+      "Titulo_Oferta": {
+        "S": "Programador móvil"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "Flutter"
+          },
+          {
+            "S": "React Native"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:03.935401"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Aspectos Generales Somos una empresa líder que brinda soluciones tecnológicas a nivel nacional, en SERTECH PERU, buscamos un Analista de Sistemas apasionado y comprometido que sea el motor de la excelencia técnica en nuestro equipo. Este profesional será el responsable de entender las necesidades del sistema y convertirlas en soluciones tecnológicas innovadoras. 1. 1 Nivel De Estudios: Bachiller o Titulado de la carrera de Ingeniería sistemas o a fines. 1. 1 Experiencia Mínima de 1 año 1. 2 Lugar: Chimbote (Presencial) 1. 3 Salario: A tratar. Conocimientos Flutter, React Native, Firebase, Figma, Trello. Base de datos: SQL Server, MySQL. Arquitectura de servicios (SOA). Desarrollo de servicios basados en SOAP, REST / JSON SCRUM para el desarrollo de software. Conocimiento de Microsoft Azure y Google Cloud. Inglés: Básico (deseable). Funciones Principales Construcción de aplicaciones para iOS y Android desde un único código base. Implementación de interfaces responsivas ad..."
+      },
+      "Salario_Monto": {
+        "N": "2600"
+      },
+      "Nombre_Empresa": {
+        "S": "Sertech"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por inicio o incremento de actividad"
+      },
+      "Anos_Experiencia": {
+        "N": "1"
+      },
+      "ID_Oferta": {
+        "S": "493"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Magdalena del mar"
+      },
+      "Categoria_Puesto": {
+        "S": "Analista de negocios ti"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-bi-inteligencia-comercial-en-magdalena-del-mar-02A04743EC1CF73561373E686DCF3405#lc=ListOffers-Score3-13"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "EExpertos en soluciones comerciales para el cuidado de la marca. Somos líderes en brindar Soluciones Comerciales, de Trade Marketing y mercadeo, que aportan al crecimiento de las ventas de las compañías, al cuidado de las marcas y a la gestión y fortalecimiento del desempeño del talento humano. Nuestra experiencia con mas de 20.000 personas a nivel regional (Colombia, Ecuador y Perú), nos permite ser ágiles y desarrollar mejores practicas para crear equipos de trabajo produc..."
+      },
+      "Fecha_Publicacion": {
+        "S": "25/05/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "Power Bi"
+          },
+          {
+            "S": "Tableau"
+          },
+          {
+            "S": "Excel"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Python"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "0"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "0"
+      },
+      "Nivel_Ingles": {
+        "S": "No disponible"
+      },
+      "Titulo_Oferta": {
+        "S": "Analista de datos bi / inteligencia comercial"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Oracle"
+          },
+          {
+            "S": "Python"
+          },
+          {
+            "S": "Tecnología De La Información"
+          },
+          {
+            "S": "Django"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          },
+          {
+            "S": "Mysql"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Remoto"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:44:49.946062"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "Nos encontramos en búsqueda del mejor talento para ocupar la posición de Analista Bi con el siguiente perfil: REQUISITOS - Bachiller o Licenciado de las carreras de Administración, Marketing, Ingeniería de Sistemas o a fines - Experiencia mínima de 2 años en posiciones similares. - Manejo de Excel a nivel intermedio/avanzado. (Indispensable) FUNCIONES Extraer, limpiar y procesar datos de diferentes fuentes para generar insights sobre ventas, clientes y mercado. Crear visualizaciones interactivas y reportes en herramientas como Power BI, Tableau o Excel avanzado, facilitando la toma de decisiones estratégicas. Identificar patrones de comportamiento y oportunidades de negocio a través de análisis predictivos y modelos estadísticos. Generar recomendaciones basadas en datos para optimizar estrategias de precios, productos, campañas de marketing y expansión de mercado. Implementar herramientas y metodologías para agilizar el análisis de datos, como el uso de Python, SQL reduciendo tiemp..."
+      },
+      "Salario_Monto": {
+        "N": "2100"
+      },
+      "Nombre_Empresa": {
+        "S": "Eficacia"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato por inicio o incremento de actividad"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "736"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Chiclayo"
+      },
+      "Categoria_Puesto": {
+        "S": "Ingeniero/a de bases de datos"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-ingeniero-python-ref-0071-en-chiclayo-88178C4AAE959CF461373E686DCF3405#lc=ListOffers-Score3-16"
+      },
+      "Region_Departamento": {
+        "S": "Lima"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "25/05/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "30"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "19"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa ingeniero python / ref. 0071"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Docker"
+          },
+          {
+            "S": "Go"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Teletrabajo"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:43:34.941987"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Ingeniero Python en BairesDev Ser un Ingeniero Python en nuestro Equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades sean una combinación de experiencia, conocimiento e independencia. La innovación también está en el corazón de la estrategia de BairesDev. Por lo tanto, si estás dispuesto a asumir las tareas más complejas y ser un maestro de t..."
+      },
+      "Salario_Monto": {
+        "N": "3600"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "4"
+      },
+      "ID_Oferta": {
+        "S": "365"
+      }
+    },
+    {
+      "Ciudad": {
+        "S": "Chiclayo"
+      },
+      "Categoria_Puesto": {
+        "S": "Desarrollador/a de software"
+      },
+      "Salario_Tipo_Pago": {
+        "S": "Mensual"
+      },
+      "Enlace_Oferta": {
+        "S": "https://pe.computrabajo.com//ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-desarrollador-fullstack-node-nest-react-ref-0111-en-chiclayo-50E4C2ED8360D07961373E686DCF3405#lc=ListOffers-Score3-7"
+      },
+      "Region_Departamento": {
+        "S": "Lambayeque"
+      },
+      "Nivel_Educacion": {
+        "S": "Universitario"
+      },
+      "Contenido_Descripcion_Empresa": {
+        "S": "Acerca de la compañía BairesDev es una premiada compañía de outsourcing de software. Más de 500 clientes confían en nosotros, entre los que destacan Google, Pinterest, Adobe, y Rolls-Royce. En los últimos 15 años hemos completado más de 1,200 proyectos en 100 sectores industriales. Impulsados por nuestros valores Empoderamos al talento para prosperar, fomentando la innovación y redefiniendo la esfera tecnológica. Promovemos la diversidad porque creemos en el potencial de cada pers..."
+      },
+      "Fecha_Publicacion": {
+        "S": "08/03/2025"
+      },
+      "Herramientas_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Lenguajes_Lista": {
+        "L": [
+          {
+            "S": "Javascript"
+          },
+          {
+            "S": "Typescript"
+          }
+        ]
+      },
+      "Edad_Maxima": {
+        "N": "35"
+      },
+      "Tipo_Jornada": {
+        "S": "Tiempo completo"
+      },
+      "Bases_Datos_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Edad_Minima": {
+        "N": "24"
+      },
+      "Nivel_Ingles": {
+        "S": "Nivel no especificado"
+      },
+      "Titulo_Oferta": {
+        "S": "Trabajo desde casa desarrollador fullstack node + nest + react / ref. 0111"
+      },
+      "Conocimientos_Adicionales_Lista": {
+        "L": [
+          {
+            "S": "Inglés"
+          },
+          {
+            "S": "Conocimientos: Tecnología De La Información"
+          },
+          {
+            "S": "Swift"
+          },
+          {
+            "S": "Lean"
+          },
+          {
+            "S": "Agile"
+          }
+        ]
+      },
+      "Frameworks_Lista": {
+        "L": [
+          {
+            "S": "No Disponible"
+          }
+        ]
+      },
+      "Modalidad_Trabajo": {
+        "S": "Presencial"
+      },
+      "fecha_procesamiento": {
+        "S": "2025-06-10T22:42:26.926100"
+      },
+      "Salario_Moneda": {
+        "S": "PEN"
+      },
+      "Contenido_Descripcion_Oferta": {
+        "S": "En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países. Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev. Desarrollador Fullstack Node + Nest + React en BairesDev Ser un Desarrollador Senior Node en nuestro equipo de Desarrollo es como ser un solucionador de problemas a tiempo completo. Esperamos que tus habilidades sean una combinación de experiencia, conocimientos e independencia. Innovación también está en el corazón de la estrategia en BairesDev. Así que, si estás dispuesto a asumir las tareas más co..."
+      },
+      "Salario_Monto": {
+        "N": "4000"
+      },
+      "Nombre_Empresa": {
+        "S": "Bairesdev llc"
+      },
+      "Tipo_Contrato": {
+        "S": "Contrato a plazo indeterminado"
+      },
+      "Anos_Experiencia": {
+        "N": "5"
+      },
+      "ID_Oferta": {
+        "S": "64"
+      }
+    }
+  ]
+}

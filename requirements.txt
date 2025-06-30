@@ -1,0 +1,13 @@
+openai
+python-dotenv
+boto3
+pinecone-client
+langchain
+langchain-openai
+langchain-pinecone
+gradio
+fastapi
+uvicorn
+pandas
+numpy
+requests

@@ -1,0 +1,32 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Archivos de entorno y claves
+.env
+*.env
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de salida y datos temporales
+*.jsonl
+*.log
+salidas_estructuradas/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.bak
+*.tmp
