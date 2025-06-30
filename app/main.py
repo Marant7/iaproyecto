@@ -6,19 +6,53 @@ def responder_dudas_chain(client, historial, encabezado=None):
     print("Bot (Dudas):", pregunta)
     historial.append({"role": "assistant", "content": pregunta})
     user_input = input("Tú: ")
-    # Cadena de pensamiento: pide al modelo razonar paso a paso y separar con encabezado
+    # Cadena de pensamiento + salida estructurada JSON
     cot_prompt = (
         user_input +
         " Primero, razona paso a paso y escribe tu razonamiento bajo el encabezado 'Razonamiento:'. "
-        "Después, da una respuesta final clara bajo el encabezado 'Conclusión:'."
+        "Después, da una respuesta final clara bajo el encabezado 'Conclusión:'. "
+        "Finalmente, responde en formato JSON con los campos: razonamiento, conclusion, rango_sueldo (min, max, moneda), ciudad, puesto. "
+        "Ejemplo de salida JSON: {\"razonamiento\": \"...\", \"conclusion\": \"...\", \"rango_sueldo\": {\"min\": 15000, \"max\": 22000, \"moneda\": \"MXN\"}, \"ciudad\": \"Guadalajara\", \"puesto\": \"Analista de datos junior\"}"
     )
     historial.append({"role": "user", "content": cot_prompt})
+    import json
     respuesta = client.client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=historial
     )
     mensaje = respuesta.choices[0].message.content
-    print("Bot (Dudas):", mensaje)
+    # Intentar extraer JSON de la respuesta
+    json_data = None
+    try:
+        start = mensaje.find('{')
+        end = mensaje.rfind('}') + 1
+        if start != -1 and end != -1:
+            json_str = mensaje[start:end]
+            json_data = json.loads(json_str)
+    except Exception:
+        pass
+    # Mostrar solo la parte antes del bloque JSON o cualquier encabezado relacionado
+    import re
+    # Busca el inicio de cualquier encabezado de bloque JSON
+    patrones = [r'\*\*Respuesta en formato JSON:?\*\*', r'Respuesta en formato JSON:?', r'```json', r'```\s*{', r'\n{']
+    corte = len(mensaje)
+    for patron in patrones:
+        m = re.search(patron, mensaje, re.IGNORECASE)
+        if m:
+            corte = min(corte, m.start())
+    texto_sin_json = mensaje[:corte].rstrip()
+    if texto_sin_json:
+        print("Bot (Dudas):", texto_sin_json)
+    if json_data:
+        # Guardar la salida estructurada en un archivo .json (append)
+        import os
+        output_dir = "salidas_estructuradas"
+        os.makedirs(output_dir, exist_ok=True)
+        from datetime import datetime
+        filename = f"duda_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        filepath = os.path.join(output_dir, filename)
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, ensure_ascii=False, indent=2)
     historial.append({"role": "assistant", "content": mensaje})
 
 def tips_postulacion_chain(client, historial, encabezado=None):

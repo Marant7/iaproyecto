@@ -1,0 +1,11 @@
+{
+  "razonamiento": "Se investigó el sueldo promedio de un Analista de Datos Junior en Lima, se consideró el nivel junior y el costo de vida en la ciudad, y se analizaron ofertas de empleo para obtener una estimación.",
+  "conclusion": "El sueldo estimado para un Analista de Datos Junior en Lima podría oscilar entre 2,500 y 3,500 USD al mes.",
+  "rango_sueldo": {
+    "min": 2500,
+    "max": 3500,
+    "moneda": "USD"
+  },
+  "ciudad": "Lima",
+  "puesto": "Analista de datos junior"
+}

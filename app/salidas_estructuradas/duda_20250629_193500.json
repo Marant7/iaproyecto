@@ -1,0 +1,11 @@
+{
+  "razonamiento": "Según la investigación realizada, el rango salarial estimado para un analista de datos junior en Lima, Perú, es de 2000 a 4000 soles al mes, considerando factores como la experiencia y el tamaño de la empresa.",
+  "conclusion": "El sueldo estimado para un analista de datos junior en Lima es de 2000 a 4000 soles mensuales.",
+  "rango_sueldo": {
+    "min": 2000,
+    "max": 4000,
+    "moneda": "PEN"
+  },
+  "ciudad": "Lima",
+  "puesto": "Analista de datos junior"
+}
