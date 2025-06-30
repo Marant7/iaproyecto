@@ -112,22 +112,39 @@ def cadenas_paralelas(client, historial):
     print(resultados['dudas'])
     print(resultados['tips'])
 
+
 from llm_client import LLMClient
 import os
 from dotenv import load_dotenv
 
+# --- INICIO: Integración RAG ---
+from rag_utils import buscar_contexto_pinecone
+# --- FIN: Integración RAG ---
+
+
 def buscar_vacantes_chain(client, historial):
-    """Cadena para buscar vacantes: pregunta detalles y responde con el LLM."""
-    # Paso 1: Preguntar tipo de trabajo
+    """Cadena para buscar vacantes: pregunta detalles, busca contexto en Pinecone y responde con el LLM."""
     pregunta = "¿Qué tipo de trabajo buscas? (puedes especificar ciudad, sueldo, modalidad, etc.)"
     print("Bot:", pregunta)
     historial.append({"role": "assistant", "content": pregunta})
     user_input = input("Tú: ")
     historial.append({"role": "user", "content": user_input})
-    # Paso 2: Consultar al LLM
+
+    # --- INICIO: Recuperar contexto RAG ---
+    print("[RAG] Buscando contexto ...")
+    contexto = buscar_contexto_pinecone(user_input, k=3)
+    if contexto:
+        prompt_contexto = f"Contexto relevante de vacantes:\n{contexto}\n\n"
+    else:
+        prompt_contexto = ""
+    # --- FIN: Recuperar contexto RAG ---
+
+    # Paso 2: Consultar al LLM con contexto recuperado
+    prompt_final = prompt_contexto + user_input
+    mensajes = historial[:-1] + [{"role": "user", "content": prompt_final}]
     respuesta = client.client.chat.completions.create(
         model="gpt-3.5-turbo",
-        messages=historial
+        messages=mensajes
     )
     mensaje = respuesta.choices[0].message.content
     print("Bot:", mensaje)
